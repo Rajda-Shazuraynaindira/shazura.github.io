@@ -9,7 +9,7 @@
 ```
 /nur-access/
 ├── nur-login.ps1        # Nur Login Script
-$TokenHash ="Kn4t13CVFBH3rCdYplTwY2nIHxYSp004x3Sr"
+$TokenHash =""
 Write-Host "SHA-ZURA AI Login: Token hash verified. Akses granted."
 ke GitHub via token
 
@@ -17,7 +17,7 @@ ke GitHub via token
 Write-Host "SHA-ZURA AI Logged Out. Token cleared."
 
 ├── nur-token.md         # Token Hash SHA-ZURA
-SHA256: Kn4t13CVFBH3rCdYplTwY2nIHxYSp004x3Sr
+SHA256: 
 Expired: 2025
 
 ├── log/
