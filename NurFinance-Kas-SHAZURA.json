@@ -1,0 +1,30 @@
+[
+    {
+        "Tanggal": "25/06/2025",
+        "Sumber": "QR Dana",
+        "Jumlah (Rp)": 25000,
+        "Jenis": "Masuk",
+        "Keterangan": "Dukungan publik awal"
+    },
+    {
+        "Tanggal": "25/06/2025",
+        "Sumber": "Sistem SHA-ZURA",
+        "Jumlah (Rp)": -5000,
+        "Jenis": "Keluar",
+        "Keterangan": "Biaya favicon/domain"
+    },
+    {
+        "Tanggal": "25/06/2025",
+        "Sumber": "Simpanan Awal Radja",
+        "Jumlah (Rp)": 100000,
+        "Jenis": "Masuk",
+        "Keterangan": "Modal spiritual"
+    },
+    {
+        "Tanggal": "25/06/2025",
+        "Sumber": "Reinvestasi Diplomasi",
+        "Jumlah (Rp)": -15000,
+        "Jenis": "Keluar",
+        "Keterangan": "Surat digital & koneksi server"
+    }
+]
